@@ -1,4 +1,7 @@
-/// https://code.visualstudio.com/tutorials/functions-extension/getting-started
+/*
+ Para estudar: https://code.visualstudio.com/tutorials/functions-extension/getting-started
+ Para testar: https://node-sample-app-azure-ftt.azurewebsites.net/api/SampleHTTPTrigger?name=gabriel
+ */
 module.exports = function (context, req) {
     context.log('JavaScript HTTP trigger function processed a request.');
 
